@@ -6845,7 +6845,7 @@ input, select, textarea {
 		.gallery.style2 > .backward {
 			left: 0;
 			background-image: linear-gradient(to right, rgba(0, 0, 0, 0.25) 15%, rgba(0, 0, 0, 0));
-		}
+		} 
 
 			.gallery.style2 > .backward:before {
 				content: '\f104';
