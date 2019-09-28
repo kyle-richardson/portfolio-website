@@ -8609,3 +8609,7 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+.get-started {
+	margin-top: 20px;
+}
